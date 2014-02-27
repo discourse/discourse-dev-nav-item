@@ -1,4 +1,4 @@
 (function() {
-  Discourse.HTML.setCustomHTML('extraNavItem', "<li><a href='/groups/developer'>Dev Tracker</a></li>");
+  Discourse.HTML.setCustomHTML('extraNavItem', "<li><a href='/groups/developers'>Dev Tracker</a></li>");
 })();
 
