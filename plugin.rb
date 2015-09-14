@@ -3,4 +3,4 @@
 # version: 0.1
 # authors: Robin Ward
 
-register_asset('javascripts/discourse-dev-nav-item.js', :server_side)
+register_custom_html(extraNavItem: "<li><a href='/groups/developers'>Dev Tracker</a></li>")
